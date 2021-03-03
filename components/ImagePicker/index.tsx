@@ -141,6 +141,7 @@ const ImagePicker = ({className}: Props) => {
 							<option value="🗣 Speaker">Speaker</option>
 							<option value="‍⚖️ Moderating">Moderating</option>
 							<option value="📹 Recording">Recording</option>
+							<option value="Check my bio!">Check my bio!</option>
 						</select>
 						<Button icon="🎉" label="Let's go" onClick={handleExport}/>
 					</>
