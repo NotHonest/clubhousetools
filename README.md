@@ -1,5 +1,7 @@
 # 🛠 Clubhouse Tools
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4c807e6-dafe-4bb9-8098-a86c72e526ed/deploy-status)](https://app.netlify.com/sites/clubhousetools/deploys)
+
 ![Clubhouse tools screenshot](.github/clubhouse.jpg)
 
 Clubhouse Tools is a small app written in React (Nextjs) with React Konva to create profile images with status. 
