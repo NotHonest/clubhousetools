@@ -30,8 +30,7 @@ export default function Home() {
 
         <h1 className="p-4 text-4xl font-bold text-gray-800">🛠 Kolos tools</h1>
         <article className="flex flex-col flex-grow mt-8 items-center">
-          <h2 className="text-center text-2xl font-extrabold text-gray-800">Change your status</h2>
-          <p className="text-gray-600 pb-5">Update your profile picture with a status badge</p>
+          <h2 className="text-center text-2xl font-extrabold text-gray-800">Become a member of Kolos Team!</h2>
           <ImagePicker className="p-4"/>
         </article>
         <footer className="p-4 text-sm text-gray-600 flex justify-between items-end w-full">
