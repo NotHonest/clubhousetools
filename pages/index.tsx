@@ -11,12 +11,12 @@ export default function Home() {
           <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🛠</text></svg>"/>
         </Head>
 				<NextSeo
-					title="Clubhouse Tools"
-					description="Change your Clubhouse status with a badge in your image profile"
+					title="Kolos Tools"
+					description="Become a member of Kolos Team!"
 					canonical="https://clubhousetools.app/"
 					openGraph={{
-						title: '🛠 Clubhouse Tools',
-						description: 'Change your Clubhouse status with a picture!',
+						title: '🛠 Kolos Tools',
+						description: 'Become a member of Kolos Team!',
 						images: [
 							{
 								url: 'https://clubhousetools.app/open-graph-image.jpg',
@@ -28,7 +28,7 @@ export default function Home() {
 					}}
 				/>
 
-        <h1 className="p-4 text-4xl font-bold text-gray-800">🛠 Clubhouse tools</h1>
+        <h1 className="p-4 text-4xl font-bold text-gray-800">🛠 Kolos tools</h1>
         <article className="flex flex-col flex-grow mt-8 items-center">
           <h2 className="text-center text-2xl font-extrabold text-gray-800">Change your status</h2>
           <p className="text-gray-600 pb-5">Update your profile picture with a status badge</p>

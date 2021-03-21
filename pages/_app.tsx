@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
 					type: 'website',
 					locale: 'en_EN',
 					url: 'https://clubhousetools.app/',
-					site_name: 'Clubhouse Tools',
+					site_name: 'Kolos Tools',
 				}}
 				twitter={{
 					handle: '@g_perales',
