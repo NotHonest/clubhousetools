@@ -51,7 +51,7 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 					{text.length > 0 &&
 						<>
 							<Rect
-								height={68}
+								height={50}
 								width={190}
 								y={180}
 								x={(WIDTH / 2) - 95}
@@ -60,12 +60,12 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 								shadowOffsetY={2}
 								shadowOpacity={0.5}
 								shadowBlur={5}
-								cornerRadius={99}
+								cornerRadius={50}
 							/>
 							<Text
 								ref={textRef}
 								text={text}
-								fontSize={24}
+								fontSize={20}
 								width={190}
 								fontFamily="Nunito"
 								x={(WIDTH / 2) - 95}
