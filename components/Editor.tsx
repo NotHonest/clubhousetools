@@ -51,8 +51,8 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 					{text.length > 0 &&
 						<>
 							<Rect
-								height={34}
-								width={380}
+								height={68}
+								width={190}
 								y={180}
 								x={(WIDTH / 2) - 95}
 								fill="#25AE60"
