@@ -53,7 +53,7 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 							<Rect
 								height={34}
 								width={190}
-								y={180}
+								y={280}
 								x={(WIDTH / 2) - 95}
 								fill="#25AE60"
 								shadowColor="black"
