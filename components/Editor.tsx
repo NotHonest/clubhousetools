@@ -52,7 +52,7 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 						<>
 							<Rect
 								height={50}
-								width={190}
+								width={195}
 								y={180}
 								x={(WIDTH / 2) - 95}
 								fill="#0097db"
@@ -60,7 +60,7 @@ const Editor = React.forwardRef(({style, text, src}: Props, ref: React.Forwarded
 								shadowOffsetY={2}
 								shadowOpacity={0.5}
 								shadowBlur={5}
-								cornerRadius={50}
+								cornerRadius={99}
 							/>
 							<Text
 								ref={textRef}
