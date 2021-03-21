@@ -137,12 +137,7 @@ const ImagePicker = ({className}: Props) => {
 					<>
 						<select className="mb-8" onChange={(e) => setLabel(e.target.value)}>
 							<option value=""></option>
-							<option value="👂 Just Listening">Just Listening</option>
-							<option value="🗣 Speaker">Speaker</option>
-							<option value="‍⚖️ Moderating">Moderating</option>
-							<option value="📹 Recording">Recording</option>
-							<option value="🚶 Away">Away</option>
-							<option value="Check my bio!">Check my bio!</option>
+							<option value="⚽️Kolos Team">Kolos Team</option>
 						</select>
 						<Button icon="🎉" label="Let's go" onClick={handleExport}/>
 					</>
